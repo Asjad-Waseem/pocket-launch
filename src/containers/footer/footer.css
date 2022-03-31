@@ -1,0 +1,12 @@
+.footer{
+    background: rgb(0, 46, 173);
+    margin-top: 100px;
+    color: #fff;
+    justify-content: center;
+    display: flex;
+}
+
+.footer p {
+
+}
+
